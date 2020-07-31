@@ -1,0 +1,11 @@
+1:
+  question: "{{person}} has been recently announced that they're {{BLANK}} and proud"
+  person: people
+2:
+  question: "The new slogan for {{place}} is {{BLANK}}"
+  place: places
+3:
+  question: "When asked about {{place}}, {{person}} said {{BLANK}}"
+  person: people
+  place: places
+
