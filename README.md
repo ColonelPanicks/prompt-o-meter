@@ -23,7 +23,7 @@ Where:
 - `x` is a number or some random thing to identify it, it's just a random key to indent into to make the yaml look nice
 - `question` is the prompt, specially treated strings in the question are:
     - `{{BLANK}}` - This is where to position the "blank" area to prompt for responses
-    - ``{{foo}}`` - Where `foo` is any string, this is a key to look for within `x`
+    - `{{foo}}` - Where `foo` is any string, this is a key to look for within `x`
 ` `person` is a string to replace within `question`, selecting a random item from the list `people` (please don't make the string `BLANK` as a key, that'll just be silly and will mess things up) 
 
 ## Lists
