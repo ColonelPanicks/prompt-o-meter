@@ -24,7 +24,7 @@ Where:
 - `question` is the prompt, specially treated strings in the question are:
     - `{{BLANK}}` - This is where to position the "blank" area to prompt for responses
     - `{{foo}}` - Where `foo` is any string, this is a key to look for within `x`
-` `person` is a string to replace within `question`, selecting a random item from the list `people` (please don't make the string `BLANK` as a key, that'll just be silly and will mess things up) 
+- `person` is a string to replace within `question`, selecting a random item from the list `people` (please don't make the string `BLANK` as a key, that'll just be silly and will mess things up) 
 
 ## Lists
 
